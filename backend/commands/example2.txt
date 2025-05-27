@@ -1,0 +1,14 @@
+input keyevent KEYCODE_BACK
+input keyevent KEYCODE_DPAD_DOWN
+input keyevent KEYCODE_DPAD_DOWN
+input keyevent KEYCODE_ENTER
+input keyevent 61
+input keyevent KEYCODE_ENTER
+input keyevent KEYCODE_DPAD_RIGHT
+input keyevent KEYCODE_DPAD_RIGHT
+input keyevent KEYCODE_DPAD_RIGHT
+input keyevent KEYCODE_ENTER
+input keyevent 61
+input keyevent KEYCODE_ENTER
+input tap 982 1990
+

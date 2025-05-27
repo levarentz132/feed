@@ -1,0 +1,4 @@
+input keyevent KEYCODE_BACK
+input keyevent KEYCODE_DPAD_DOWN
+input keyevent KEYCODE_DPAD_DOWN
+input keyevent KEYCODE_ENTER

@@ -1,0 +1,800 @@
+[2025-05-27T08:44:40.861Z] Loaded 20 WhatsApp links
+[2025-05-27T08:44:43.835Z] Processing deviceId: 192.168.1.38:5555 with link: https://wa.me/6282221924254  
+[2025-05-27T08:44:44.031Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T08:44:44.032Z] Opened https://wa.me/6282221924254   on 192.168.1.38:5555
+[2025-05-27T08:44:44.032Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:44:44.846Z] Gemini API status: 200
+[2025-05-27T08:44:44.847Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Waa add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.33709554238752887}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"fns1aJfgBY2RsbQPv_vJuQk"}
+[2025-05-27T08:44:46.474Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sWaa%sadd%sya?%s"
+[2025-05-27T08:44:46.475Z] Gemini response: Hai!  Liat foto profilmu yang baru, keren banget!  Waa add ya? 😉 
+[2025-05-27T08:44:46.624Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T08:48:10.464Z] Loaded 20 WhatsApp links
+[2025-05-27T08:48:15.257Z] ▶️  192.168.1.38:5555 → https://wa.me/6281330038639
+[2025-05-27T08:48:15.271Z] ▶️  192.168.1.39:5555 → https://wa.me/6285285907301  
+[2025-05-27T08:48:15.280Z] ▶️  192.168.1.40:5555 → https://wa.me/6282221924255  
+[2025-05-27T08:48:15.290Z] ▶️  192.168.1.41:5555 → https://wa.me/6285285904465  
+[2025-05-27T08:48:15.299Z] ▶️  192.168.1.42:5555 → https://wa.me/6282298144818  
+[2025-05-27T08:48:15.308Z] ▶️  192.168.1.43:5555 → https://wa.me/6282221925155  
+[2025-05-27T08:48:15.319Z] ▶️  192.168.1.44:5555 → https://wa.me/6282221069974  
+[2025-05-27T08:48:15.331Z] ▶️  192.168.1.45:5555 → https://wa.me/6282221925157  
+[2025-05-27T08:48:15.342Z] ▶️  192.168.1.46:5555 → https://wa.me/6282221925154  
+[2025-05-27T08:48:15.354Z] ▶️  192.168.1.47:5555 → https://wa.me/6285285907296  
+[2025-05-27T08:48:15.366Z] ▶️  192.168.1.48:5555 → https://wa.me/6285285904157  
+[2025-05-27T08:48:15.376Z] ▶️  192.168.1.49:5555 → https://wa.me/6282221924256  
+[2025-05-27T08:48:15.388Z] ▶️  192.168.1.50:5555 → https://wa.me/6285285904155  
+[2025-05-27T08:48:15.399Z] ▶️  192.168.1.51:5555 → https://wa.me/6282221924254  
+[2025-05-27T08:48:15.410Z] ▶️  192.168.1.52:5555 → https://wa.me/6285285904461  
+[2025-05-27T08:48:15.421Z] ▶️  192.168.1.53:5555 → https://wa.me/6285285904434  
+[2025-05-27T08:48:15.432Z] ▶️  192.168.1.54:5555 → https://wa.me/6282221924119  
+[2025-05-27T08:48:15.446Z] ▶️  192.168.1.55:5555 → https://wa.me/6281315993335  
+[2025-05-27T08:48:15.457Z] ▶️  192.168.1.57:5555 → https://wa.me/6285285904437  
+[2025-05-27T08:48:15.495Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T08:48:15.496Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.564Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T08:48:15.565Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.569Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T08:48:15.569Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.597Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T08:48:15.597Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.600Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T08:48:15.601Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.618Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T08:48:15.618Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.639Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T08:48:15.640Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.659Z] Command executed: adb -s 192.168.1.47:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T08:48:15.660Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.685Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T08:48:15.685Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.702Z] Command executed: adb -s 192.168.1.48:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904157  "
+[2025-05-27T08:48:15.702Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.716Z] Command executed: adb -s 192.168.1.51:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T08:48:15.716Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.738Z] Command executed: adb -s 192.168.1.46:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925154  "
+[2025-05-27T08:48:15.739Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.741Z] Command executed: adb -s 192.168.1.57:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T08:48:15.742Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.796Z] Command executed: adb -s 192.168.1.55:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281315993335  "
+[2025-05-27T08:48:15.796Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.800Z] Command executed: adb -s 192.168.1.52:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T08:48:15.800Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.818Z] Command executed: adb -s 192.168.1.50:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T08:48:15.819Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.839Z] Command executed: adb -s 192.168.1.49:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T08:48:15.839Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.856Z] Command executed: adb -s 192.168.1.54:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T08:48:15.856Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:15.925Z] Command executed: adb -s 192.168.1.53:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T08:48:15.925Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:48:16.362Z] Gemini API status: 200
+[2025-05-27T08:48:16.362Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Btw, WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.1982945745641535}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aITJLvGqqsMP98zViAI"}
+[2025-05-27T08:48:16.430Z] Gemini API status: 200
+[2025-05-27T08:48:16.430Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, boleh WA add ya?  😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.37681448459625244}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aLvwLo2RsbQPv_vJuQk"}
+[2025-05-27T08:48:16.515Z] Gemini API status: 200
+[2025-05-27T08:48:16.515Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  ;)\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4356076419353485}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":16,"totalTokenCount":56,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":16}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aPqHOoKUhMIPy7mmmQw"}
+[2025-05-27T08:48:16.523Z] Gemini API status: 200
+[2025-05-27T08:48:16.524Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Btw, WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.21203281662680887}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aI32NYKUhMIPy7mmmQw"}
+[2025-05-27T08:48:16.533Z] Gemini API status: 200
+[2025-05-27T08:48:16.533Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, udah WA add balik belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.29476615905761716}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aO7TN9qsqsMPsfm_gAM"}
+[2025-05-27T08:48:16.542Z] Gemini API status: 200
+[2025-05-27T08:48:16.543Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.22467377185821533}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aKC_Np-VhMIPwe2i8Q4"}
+[2025-05-27T08:48:16.550Z] Gemini API status: 200
+[2025-05-27T08:48:16.551Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu, keren banget!  Gimana bisa wa add kamu ya? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.44511546259341034}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aJiUN5-VhMIPwe2i8Q4"}
+[2025-05-27T08:48:16.564Z] Gemini API status: 200
+[2025-05-27T08:48:16.564Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, udah add WA aku belum? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.22277637481689452}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aNCJOPK5qsMPmcXT4As"}
+[2025-05-27T08:48:16.598Z] Gemini API status: 200
+[2025-05-27T08:48:16.599Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, udah add WA aku belum? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.20541193087895712}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aKXaOvGqqsMP98zViAI"}
+[2025-05-27T08:48:16.608Z] Gemini API status: 200
+[2025-05-27T08:48:16.608Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, cakep banget!  Btw,  WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.39348987738291424}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aKzMO_K5qsMPmcXT4As"}
+[2025-05-27T08:48:16.630Z] Error: Command failed: adb -s 192.168.1.52:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%s;)"
+/system/bin/sh: syntax error: unexpected ')'
+
+[2025-05-27T08:48:16.630Z] ❌  192.168.1.52:5555 error: Command failed: adb -s 192.168.1.52:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%s;)"
+/system/bin/sh: syntax error: unexpected ')'
+
+[2025-05-27T08:48:16.640Z] Gemini API status: 200
+[2025-05-27T08:48:16.641Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Add WA yuk, biar gampang ngobrol. 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.36157042891890917}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":27,"totalTokenCount":67,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":27}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aIuqO9qsqsMPsfm_gAM"}
+[2025-05-27T08:48:16.659Z] Gemini API status: 200
+[2025-05-27T08:48:16.660Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu baru, keren banget!  Btw, udah add WA aku belum? 😄\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.27915990352630615}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aKP4OoKUhMIPy7mmmQw"}
+[2025-05-27T08:48:16.671Z] Gemini API status: 200
+[2025-05-27T08:48:16.671Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil baru kamu, keren banget!  Btw, WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2867669408971613}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"Unw1aLWGAtqsqsMPsfm_gAM"}
+[2025-05-27T08:48:17.039Z] Gemini API error: Request failed with status code 429
+[2025-05-27T08:48:19.291Z] Command executed: adb -s 192.168.1.53:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbaru%skamu,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:48:21.653Z] Command executed: adb -s 192.168.1.55:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:48:23.952Z] Command executed: adb -s 192.168.1.50:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sAdd%sWA%syuk,%sbiar%sgampang%sngobrol.%s"
+[2025-05-27T08:48:26.254Z] Command executed: adb -s 192.168.1.49:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%scakep%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:48:28.575Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu,%skeren%sbanget!%sGimana%sbisa%swa%sadd%skamu%sya?%s"
+[2025-05-27T08:48:30.881Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sWA%sadd%sbalik%sbelum?%s"
+[2025-05-27T08:48:33.246Z] Command executed: adb -s 192.168.1.48:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:48:35.507Z] Command executed: adb -s 192.168.1.46:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:48:37.801Z] Command executed: adb -s 192.168.1.47:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sWA%sadd%sya?%s"
+[2025-05-27T08:48:40.167Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:48:42.572Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:48:44.894Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd%sya?%s"
+[2025-05-27T08:48:47.418Z] Gemini API error: Request failed with status code 429
+[2025-05-27T08:48:49.745Z] Gemini API error: Request failed with status code 429
+[2025-05-27T08:48:52.117Z] Gemini API status: 200
+[2025-05-27T08:48:52.117Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.24969428518544073}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"Unw1aIm2KvGqqsMP98zViAI"}
+[2025-05-27T08:48:52.128Z] Gemini API status: 200
+[2025-05-27T08:48:52.128Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil baru kamu, keren banget!  Btw, udah add WA aku belum? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.17188547054926553}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"UXw1aIanOo24qsMPyazOsA0"}
+[2025-05-27T08:48:52.138Z] Gemini API error: Request failed with status code 429
+[2025-05-27T08:48:54.519Z] Command executed: adb -s 192.168.1.57:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbaru%skamu,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:48:57.105Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:55:40.246Z] Loaded 20 WhatsApp links
+[2025-05-27T08:57:15.674Z] Loaded 20 WhatsApp links
+[2025-05-27T08:57:18.153Z] ▶️ 192.168.1.38:5555 → https://wa.me/6285285904434  
+[2025-05-27T08:57:18.350Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T08:57:18.351Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:19.068Z] Gemini API status: 200
+[2025-05-27T08:57:19.069Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu baru, keren banget!  Btw, WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2905981323935769}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"cH41aJOOH_K5qsMPmcXT4As"}
+[2025-05-27T08:57:20.516Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:57:22.817Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221924255  
+[2025-05-27T08:57:23.006Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T08:57:23.006Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:24.643Z] Gemini API status: 200
+[2025-05-27T08:57:24.643Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Btw, WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.18858040462840686}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"dn41aKueAfK5qsMPmcXT4As"}
+[2025-05-27T08:57:26.080Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:57:28.351Z] ▶️ 192.168.1.40:5555 → https://wa.me/6282221925155  
+[2025-05-27T08:57:28.528Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T08:57:28.529Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:29.152Z] Gemini API status: 200
+[2025-05-27T08:57:29.152Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.23191282023554263}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"en41aJS2I7OMgLUPq7OY6QY"}
+[2025-05-27T08:57:30.706Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T08:57:33.024Z] ▶️ 192.168.1.41:5555 → https://wa.me/6282221929861  
+[2025-05-27T08:57:33.194Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T08:57:33.194Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:33.830Z] Gemini API status: 200
+[2025-05-27T08:57:33.830Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu, keren banget!  Baru wa add, btw. 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4557245345342727}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"f341aPi-DoKUhMIPy7mmmQw"}
+[2025-05-27T08:57:35.113Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu,%skeren%sbanget!%sBaru%swa%sadd,%sbtw.%s"
+[2025-05-27T08:57:37.447Z] ▶️ 192.168.1.42:5555 → https://wa.me/6285285904465  
+[2025-05-27T08:57:37.607Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T08:57:37.608Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:38.276Z] Gemini API status: 200
+[2025-05-27T08:57:38.277Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, udah add WA-ku belum? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.30835445110614484}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":26,"totalTokenCount":66,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":26}]},"modelVersion":"gemini-1.5-flash","responseId":"g341aM-KKI24qsMPyazOsA0"}
+[2025-05-27T08:57:39.824Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA-ku%sbelum?%s"
+[2025-05-27T08:57:42.274Z] ▶️ 192.168.1.43:5555 → https://wa.me/6285285904461  
+[2025-05-27T08:57:42.483Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T08:57:42.483Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:44.097Z] Gemini API status: 200
+[2025-05-27T08:57:44.097Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil baru kamu, keren banget!  WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.258923602104187}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"iX41aPSsHqi3nvgP4IvSuAs"}
+[2025-05-27T08:57:45.466Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbaru%skamu,%skeren%sbanget!%sWA%sadd%sya?%s"
+[2025-05-27T08:57:47.921Z] ▶️ 192.168.1.44:5555 → https://wa.me/6282221069974  
+[2025-05-27T08:57:48.106Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T08:57:48.107Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:48.761Z] Gemini API status: 200
+[2025-05-27T08:57:48.761Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Gimana bisa wa add kamu ya? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.27624433517456054}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"jn41aNOdCqLkgLUPlsyasAI"}
+[2025-05-27T08:57:50.624Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sGimana%sbisa%swa%sadd%skamu%sya?%s"
+[2025-05-27T08:57:52.879Z] ▶️ 192.168.1.45:5555 → https://wa.me/6282221924119  
+[2025-05-27T08:57:53.045Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T08:57:53.045Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:53.700Z] Gemini API status: 200
+[2025-05-27T08:57:53.700Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, boleh WA add ya?\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3421717312024987}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"k341aKuUBvCNgLUP-_fggAY"}
+[2025-05-27T08:57:55.220Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd%sya?"
+[2025-05-27T08:57:57.480Z] ▶️ 192.168.1.46:5555 → https://wa.me/6282298144818  
+[2025-05-27T08:57:57.655Z] Command executed: adb -s 192.168.1.46:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T08:57:57.655Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:57:58.319Z] Gemini API status: 200
+[2025-05-27T08:57:58.320Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.14326920509338378}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"l341aMbmK6LkgLUPlsyasAI"}
+[2025-05-27T08:57:59.965Z] Command executed: adb -s 192.168.1.46:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:58:02.314Z] ▶️ 192.168.1.47:5555 → https://wa.me/6285285904155  
+[2025-05-27T08:58:02.464Z] Command executed: adb -s 192.168.1.47:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T08:58:02.464Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:03.091Z] Gemini API status: 200
+[2025-05-27T08:58:03.091Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu, keren banget!  Btw, boleh WA add? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.38061210087367464}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"nH41aNmDIN7bgLUP8cv60A0"}
+[2025-05-27T08:58:04.262Z] Command executed: adb -s 192.168.1.47:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd?%s"
+[2025-05-27T08:58:06.544Z] ▶️ 192.168.1.48:5555 → https://wa.me/6285285907301  
+[2025-05-27T08:58:06.719Z] Command executed: adb -s 192.168.1.48:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T08:58:06.719Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:07.377Z] Gemini API status: 200
+[2025-05-27T08:58:07.378Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.13305895805358886}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"oH41aN2DL4KUhMIPy7mmmQw"}
+[2025-05-27T08:58:09.086Z] Command executed: adb -s 192.168.1.48:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:58:11.316Z] ▶️ 192.168.1.49:5555 → https://wa.me/6285285907296  
+[2025-05-27T08:58:11.472Z] Command executed: adb -s 192.168.1.49:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T08:58:11.473Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:13.136Z] Gemini API status: 200
+[2025-05-27T08:58:13.136Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.1447005081176758}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"pn41aN6fILOMgLUPq7OY6QY"}
+[2025-05-27T08:58:14.989Z] Command executed: adb -s 192.168.1.49:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:58:17.177Z] ▶️ 192.168.1.50:5555 → https://wa.me/6285285904157  
+[2025-05-27T08:58:17.380Z] Command executed: adb -s 192.168.1.50:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904157  "
+[2025-05-27T08:58:17.381Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:19.010Z] Gemini API status: 200
+[2025-05-27T08:58:19.011Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil baru kamu, keren banget!  WA Add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2911048173904419}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"rH41aL3hG6qvgLUP1Lz-8As"}
+[2025-05-27T08:58:20.598Z] Command executed: adb -s 192.168.1.50:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbaru%skamu,%skeren%sbanget!%sWA%sAdd%sya?%s"
+[2025-05-27T08:58:22.902Z] ▶️ 192.168.1.51:5555 → https://wa.me/6282221924254  
+[2025-05-27T08:58:23.064Z] Command executed: adb -s 192.168.1.51:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T08:58:23.064Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:23.670Z] Gemini API status: 200
+[2025-05-27T08:58:23.671Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA baru nih, add yaaa 😊  Btw, baju kamu kece banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4325471546338952}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"sX41aMuzBqqvgLUP1Lz-8As"}
+[2025-05-27T08:58:24.977Z] Command executed: adb -s 192.168.1.51:5555 shell input text "Hai!%sNomor%sWA%sbaru%snih,%sadd%syaaa%s%sBtw,%sbaju%skamu%skece%sbanget%stadi!"
+[2025-05-27T08:58:27.269Z] ▶️ 192.168.1.52:5555 → https://wa.me/6281315993335  
+[2025-05-27T08:58:27.436Z] Command executed: adb -s 192.168.1.52:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281315993335  "
+[2025-05-27T08:58:27.436Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:28.065Z] Gemini API status: 200
+[2025-05-27T08:58:28.066Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, udah add WA aku belum? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.17261238098144532}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"tX41aJvbHqLkgLUPlsyasAI"}
+[2025-05-27T08:58:29.798Z] Command executed: adb -s 192.168.1.52:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:58:32.104Z] ▶️ 192.168.1.53:5555 → https://wa.me/6282221925157  
+[2025-05-27T08:58:32.261Z] Command executed: adb -s 192.168.1.53:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T08:58:32.261Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:32.868Z] Gemini API status: 200
+[2025-05-27T08:58:32.868Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  WA Add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.31838011741638184}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"un41aMrjE6qvgLUP1Lz-8As"}
+[2025-05-27T08:58:34.625Z] Command executed: adb -s 192.168.1.53:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sWA%sAdd%sya?%s"
+[2025-05-27T08:58:36.902Z] ▶️ 192.168.1.54:5555 → https://wa.me/6281330038639
+[2025-05-27T08:58:37.082Z] Command executed: adb -s 192.168.1.54:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T08:58:37.083Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:38.988Z] Gemini API status: 200
+[2025-05-27T08:58:38.988Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Add WA-ku yuk, biar gampang ngobrol. 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3295658703508048}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":29,"totalTokenCount":69,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":29}]},"modelVersion":"gemini-1.5-flash","responseId":"v341aMzKCfCNgLUP-_fggAY"}
+[2025-05-27T08:58:40.832Z] Command executed: adb -s 192.168.1.54:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sAdd%sWA-ku%syuk,%sbiar%sgampang%sngobrol.%s"
+[2025-05-27T08:58:43.104Z] ▶️ 192.168.1.55:5555 → https://wa.me/6285285904437  
+[2025-05-27T08:58:43.278Z] Command executed: adb -s 192.168.1.55:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T08:58:43.278Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:53.306Z] Gemini API status: 200
+[2025-05-27T08:58:53.306Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu baru, keren banget!  Btw, udah add WA aku belum? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2651284535725911}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"xX41aJevFPCNgLUP-_fggAY"}
+[2025-05-27T08:58:55.002Z] Command executed: adb -s 192.168.1.55:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T08:58:57.256Z] ▶️ 192.168.1.57:5555 → https://wa.me/6282221924256  
+[2025-05-27T08:58:57.425Z] Command executed: adb -s 192.168.1.57:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T08:58:57.425Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T08:58:58.071Z] Gemini API status: 200
+[2025-05-27T08:58:58.071Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Btw, WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.18356160684065384}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"0341aI63HLOMgLUPq7OY6QY"}
+[2025-05-27T08:58:59.730Z] Command executed: adb -s 192.168.1.57:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T09:00:02.169Z] ▶️ 192.168.1.38:5555 → https://wa.me/6282221925154  
+[2025-05-27T09:00:02.332Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925154  "
+[2025-05-27T09:00:02.332Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:00:02.995Z] Gemini API status: 200
+[2025-05-27T09:00:02.995Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Wa add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.24437928199768066}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"FH81aISsGImF1dkP4aj2sQY"}
+[2025-05-27T09:00:04.211Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sWa%sadd%sya?%s"
+[2025-05-27T09:00:06.438Z] ▶️ 192.168.1.39:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:00:06.608Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:00:06.609Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:00:07.262Z] Gemini API status: 200
+[2025-05-27T09:00:07.262Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😁\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.24521732330322266}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"GH81aKeiKYmF1dkP4aj2sQY"}
+[2025-05-27T09:00:09.037Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:02:08.102Z] Loaded 20 WhatsApp links
+[2025-05-27T09:02:09.890Z] ▶️ 192.168.1.38:5555 → https://wa.me/6281330038639
+[2025-05-27T09:02:10.080Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T09:02:10.080Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:12.948Z] Gemini API status: 200
+[2025-05-27T09:02:12.948Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Wa add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.25181409290858675}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"ln81aJ_zF97bgLUP8cv60A0"}
+[2025-05-27T09:02:14.668Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sWa%sadd%sya?%s"
+[2025-05-27T09:02:16.897Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221925155  
+[2025-05-27T09:02:17.065Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T09:02:17.065Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:17.676Z] Gemini API status: 200
+[2025-05-27T09:02:17.676Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Wa add ya? 😄\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.34949813570295063}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"m381aKH0B97bgLUP8cv60A0"}
+[2025-05-27T09:02:18.928Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sWa%sadd%sya?%s"
+[2025-05-27T09:02:21.146Z] ▶️ 192.168.1.40:5555 → https://wa.me/6285285904461  
+[2025-05-27T09:02:21.329Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T09:02:21.329Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:22.033Z] Gemini API status: 200
+[2025-05-27T09:02:22.033Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.17133792877197265}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"n381aLr4Gt7bgLUP8cv60A0"}
+[2025-05-27T09:02:23.814Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:02:26.123Z] ▶️ 192.168.1.41:5555 → https://wa.me/6285285904437  
+[2025-05-27T09:02:26.331Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T09:02:26.331Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:27.001Z] Gemini API status: 200
+[2025-05-27T09:02:27.001Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Gimana bisa add WA kamu? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3728094895680745}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"pH81aJyZGLOMgLUPq7OY6QY"}
+[2025-05-27T09:02:28.571Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sGimana%sbisa%sadd%sWA%skamu?%s"
+[2025-05-27T09:02:30.977Z] ▶️ 192.168.1.42:5555 → https://wa.me/6281315993335  
+[2025-05-27T09:02:31.149Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281315993335  "
+[2025-05-27T09:02:31.150Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:31.772Z] Gemini API status: 200
+[2025-05-27T09:02:31.773Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, boleh WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.22766375541687012}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"qX81aIfkDfCNgLUP-_fggAY"}
+[2025-05-27T09:02:33.161Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd%sya?%s"
+[2025-05-27T09:02:35.309Z] ▶️ 192.168.1.43:5555 → https://wa.me/6285285904157  
+[2025-05-27T09:02:35.495Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904157  "
+[2025-05-27T09:02:35.496Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:36.094Z] Gemini API status: 200
+[2025-05-27T09:02:36.095Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  WA add ya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2395340919494629}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"rX81aMDeIvCNgLUP-_fggAY"}
+[2025-05-27T09:02:37.211Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sWA%sadd%sya?%s"
+[2025-05-27T09:02:39.487Z] ▶️ 192.168.1.44:5555 → https://wa.me/6282221924255  
+[2025-05-27T09:02:39.647Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T09:02:39.648Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:40.272Z] Gemini API status: 200
+[2025-05-27T09:02:40.272Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, cakep banget!  Btw, WA add ya?  😄\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.5058837334314982}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"sX81aKKgK_CNgLUP-_fggAY"}
+[2025-05-27T09:02:41.517Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%scakep%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T09:02:43.782Z] ▶️ 192.168.1.45:5555 → https://wa.me/6285285904465  
+[2025-05-27T09:02:43.931Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T09:02:43.932Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:44.755Z] Gemini API status: 200
+[2025-05-27T09:02:44.756Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw,  mau minta WA add dong. 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4685317553006686}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":26,"totalTokenCount":66,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":26}]},"modelVersion":"gemini-1.5-flash","responseId":"tn81aLn4BYmF1dkP4aj2sQY"}
+[2025-05-27T09:02:46.524Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%smau%sminta%sWA%sadd%sdong.%s"
+[2025-05-27T09:02:48.720Z] ▶️ 192.168.1.46:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:02:48.908Z] Command executed: adb -s 192.168.1.46:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:02:48.908Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:49.533Z] Gemini API status: 200
+[2025-05-27T09:02:49.534Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.20122186342875162}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"un81aIaqO7OMgLUPq7OY6QY"}
+[2025-05-27T09:02:51.031Z] Command executed: adb -s 192.168.1.46:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:02:53.278Z] ▶️ 192.168.1.47:5555 → https://wa.me/6282221924254  
+[2025-05-27T09:02:53.440Z] Command executed: adb -s 192.168.1.47:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T09:02:53.440Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:54.107Z] Gemini API status: 200
+[2025-05-27T09:02:54.108Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😁\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.24011592864990233}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"v381aJPHH6qvgLUP1Lz-8As"}
+[2025-05-27T09:02:55.851Z] Command executed: adb -s 192.168.1.47:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:02:58.066Z] ▶️ 192.168.1.48:5555 → https://wa.me/6282221924256  
+[2025-05-27T09:02:58.278Z] Command executed: adb -s 192.168.1.48:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T09:02:58.279Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:02:58.894Z] Gemini API status: 200
+[2025-05-27T09:02:58.895Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu yang baru, keren banget!  Btw, boleh WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.21609332164128622}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"xH81aKzvFNTGgLUPtNvO0AE"}
+[2025-05-27T09:03:00.220Z] Command executed: adb -s 192.168.1.48:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%syang%sbaru,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd%sya?%s"
+[2025-05-27T09:03:02.414Z] ▶️ 192.168.1.49:5555 → https://wa.me/6282221069974  
+[2025-05-27T09:03:02.588Z] Command executed: adb -s 192.168.1.49:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T09:03:02.589Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:03.188Z] Gemini API status: 200
+[2025-05-27T09:03:03.189Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, boleh WA add ya?  😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.36739202340443927}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"yH81aNujKNTGgLUPtNvO0AE"}
+[2025-05-27T09:03:04.764Z] Command executed: adb -s 192.168.1.49:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sboleh%sWA%sadd%sya?%s"
+[2025-05-27T09:03:06.982Z] ▶️ 192.168.1.50:5555 → https://wa.me/6282221925157  
+[2025-05-27T09:03:07.165Z] Command executed: adb -s 192.168.1.50:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T09:03:07.166Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:07.802Z] Gemini API status: 200
+[2025-05-27T09:03:07.802Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu yang baru, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.13445737838745117}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"zX81aL2bDqqvgLUP1Lz-8As"}
+[2025-05-27T09:03:09.453Z] Command executed: adb -s 192.168.1.50:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%syang%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:03:11.673Z] ▶️ 192.168.1.51:5555 → https://wa.me/6282221924119  
+[2025-05-27T09:03:11.857Z] Command executed: adb -s 192.168.1.51:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T09:03:11.857Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:12.564Z] Gemini API status: 200
+[2025-05-27T09:03:12.565Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, cakep banget!  Btw, udah add WA ku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.36862586975097655}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"0X81aJyJON7bgLUP8cv60A0"}
+[2025-05-27T09:03:14.439Z] Command executed: adb -s 192.168.1.51:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%scakep%sbanget!%sBtw,%sudah%sadd%sWA%sku%sbelum?%s"
+[2025-05-27T09:03:16.619Z] ▶️ 192.168.1.52:5555 → https://wa.me/6282221925154  
+[2025-05-27T09:03:16.795Z] Command executed: adb -s 192.168.1.52:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925154  "
+[2025-05-27T09:03:16.795Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:17.407Z] Gemini API status: 200
+[2025-05-27T09:03:17.408Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu baru, keren banget!  Btw, udah add WA aku belum? 😅\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2563008666038513}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"1n81aObaNNqsqsMPsfm_gAM"}
+[2025-05-27T09:03:19.263Z] Command executed: adb -s 192.168.1.52:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:03:21.487Z] ▶️ 192.168.1.53:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:03:21.649Z] Command executed: adb -s 192.168.1.53:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:03:21.649Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:22.272Z] Gemini API status: 200
+[2025-05-27T09:03:22.273Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil kamu baru, cakep banget!  Btw, WA add ya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.266857271609099}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"2381aNztLImF1dkP4aj2sQY"}
+[2025-05-27T09:03:23.743Z] Command executed: adb -s 192.168.1.53:5555 shell input text "Hai!%sLiat%sfoto%sprofil%skamu%sbaru,%scakep%sbanget!%sBtw,%sWA%sadd%sya?%s"
+[2025-05-27T09:03:26.044Z] ▶️ 192.168.1.54:5555 → https://wa.me/6282298144818  
+[2025-05-27T09:03:26.210Z] Command executed: adb -s 192.168.1.54:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T09:03:26.211Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:26.830Z] Gemini API status: 200
+[2025-05-27T09:03:26.830Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, WA add yaaa? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4089379932569421}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"4H81aKS0Ed7bgLUP8cv60A0"}
+[2025-05-27T09:03:28.274Z] Command executed: adb -s 192.168.1.54:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sWA%sadd%syaaa?%s"
+[2025-05-27T09:03:30.562Z] ▶️ 192.168.1.55:5555 → https://wa.me/6285285904155  
+[2025-05-27T09:03:30.735Z] Command executed: adb -s 192.168.1.55:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T09:03:30.736Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:31.373Z] Gemini API status: 200
+[2025-05-27T09:03:31.373Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profilmu baru, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.18044549226760864}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"5H81aPqrMbOMgLUPq7OY6QY"}
+[2025-05-27T09:03:32.946Z] Command executed: adb -s 192.168.1.55:5555 shell input text "Hai!%sLiat%sfoto%sprofilmu%sbaru,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:03:35.245Z] ▶️ 192.168.1.57:5555 → https://wa.me/6285285907296  
+[2025-05-27T09:03:35.402Z] Command executed: adb -s 192.168.1.57:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T09:03:35.403Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:03:36.000Z] Gemini API status: 200
+[2025-05-27T09:03:36.000Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Liat foto profil barumu, keren banget!  Btw, udah add WA aku belum? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.20055278142293295}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"6X81aKy9HPCNgLUP-_fggAY"}
+[2025-05-27T09:03:37.589Z] Command executed: adb -s 192.168.1.57:5555 shell input text "Hai!%sLiat%sfoto%sprofil%sbarumu,%skeren%sbanget!%sBtw,%sudah%sadd%sWA%saku%sbelum?%s"
+[2025-05-27T09:04:39.833Z] 🛑 Endless loop stopped
+[2025-05-27T09:05:18.927Z] Loaded 20 WhatsApp links
+[2025-05-27T09:05:42.757Z] ▶️ 192.168.1.38:5555 → https://wa.me/6282298144818  
+[2025-05-27T09:05:42.938Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T09:05:42.938Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:43.580Z] Gemini API status: 200
+[2025-05-27T09:05:43.580Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, baju kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.23090503090306333}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":19,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"aYA1aL3BBPCNgLUP-_fggAY"}
+[2025-05-27T09:05:44.721Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:05:44.721Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221924256  
+[2025-05-27T09:05:44.898Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T09:05:44.898Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:45.506Z] Gemini API status: 200
+[2025-05-27T09:05:45.506Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, kemeja kamu hari ini kece banget! 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.5222746985299247}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"aoA1aOnyO9TGgLUPtNvO0AE"}
+[2025-05-27T09:05:46.875Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skemeja%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:05:46.876Z] ▶️ 192.168.1.40:5555 → https://wa.me/6285285904155  
+[2025-05-27T09:05:47.040Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T09:05:47.041Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:47.745Z] Gemini API status: 200
+[2025-05-27T09:05:47.745Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku berubah, nih.  Ini yang baru: [Nomor WA].  Btw, baju kamu hari ini kece banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.25905785841100354}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":34,"totalTokenCount":74,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":34}]},"modelVersion":"gemini-1.5-flash","responseId":"bYA1aNSMB4mF1dk
+[2025-05-27T09:05:49.621Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sNomor%sWA-ku%sberubah,%snih.%sIni%syang%sbaru:%s[Nomor%sWA].%sBtw,%sbaju%skamu%shari%sini%skec"
+[2025-05-27T09:05:50.312Z] Command executed: adb -s 192.168.1.40:5555 shell input text "e%sbanget!%s"
+[2025-05-27T09:05:50.313Z] ▶️ 192.168.1.41:5555 → https://wa.me/6282221924119  
+[2025-05-27T09:05:50.476Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T09:05:50.477Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:51.108Z] Gemini API status: 200
+[2025-05-27T09:05:51.109Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw, baju kamu hari ini keren banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3376815432593936}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"cIA1aPjXIt7bgLUP8cv60A0"}
+[2025-05-27T09:05:52.308Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skeren%sbanget!%s"
+[2025-05-27T09:05:52.308Z] ▶️ 192.168.1.42:5555 → https://wa.me/6281330038639
+[2025-05-27T09:05:52.490Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T09:05:52.490Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:53.218Z] Gemini API status: 200
+[2025-05-27T09:05:53.218Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, keren banget bajumu tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2856402146188836}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":19,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"coA1aKXlIvCNgLUP-_fggAY"}
+[2025-05-27T09:05:54.392Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skeren%sbanget%sbajumu%stadi!"
+[2025-05-27T09:05:54.393Z] ▶️ 192.168.1.43:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:05:54.582Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:05:54.582Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:56.175Z] Gemini API status: 200
+[2025-05-27T09:05:56.176Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, baju kamu hari ini kece banget! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.23166365850539433}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"dYA1aKruJ_CNgLUP-_fggAY"}
+[2025-05-27T09:05:57.692Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:05:57.693Z] ▶️ 192.168.1.44:5555 → https://wa.me/6282221069974  
+[2025-05-27T09:05:57.864Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T09:05:57.865Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:05:58.489Z] Gemini API status: 200
+[2025-05-27T09:05:58.490Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw, baju kamu hari ini keren banget!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.36291089057922366}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"d4A1aJKjOfCNgLUP-_fggAY"}
+[2025-05-27T09:05:59.728Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skeren%sbanget!"
+[2025-05-27T09:05:59.729Z] ▶️ 192.168.1.45:5555 → https://wa.me/6282221925154  
+[2025-05-27T09:05:59.895Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925154  "
+[2025-05-27T09:05:59.896Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:00.509Z] Gemini API status: 200
+[2025-05-27T09:06:00.509Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu masih yang lama ya?  Btw, baju kamu keren banget tadi! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.35494764645894367}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"eYA1aIbUO_CNgLUP-_fggAY"}
+[2025-05-27T09:06:01.833Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sNomor%sWA-mu%smasih%syang%slama%sya?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!%s"
+[2025-05-27T09:06:01.833Z] ▶️ 192.168.1.46:5555 → https://wa.me/6285285907296  
+[2025-05-27T09:06:02.002Z] Command executed: adb -s 192.168.1.46:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T09:06:02.002Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:02.631Z] Gemini API status: 200
+[2025-05-27T09:06:02.631Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw,  kemeja barumu keren banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.33005335217430476}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"fIA1aNXZBaqvgLUP1Lz-8As"}
+[2025-05-27T09:06:03.825Z] Command executed: adb -s 192.168.1.46:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:06:03.825Z] ▶️ 192.168.1.47:5555 → https://wa.me/6285285907301  
+[2025-05-27T09:06:03.997Z] Command executed: adb -s 192.168.1.47:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T09:06:03.997Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:04.623Z] Gemini API status: 200
+[2025-05-27T09:06:04.624Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, baju kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.153827702999115}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"foA1aP_2BPCNgLUP-_fggAY"}
+[2025-05-27T09:06:05.781Z] Command executed: adb -s 192.168.1.47:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:06:05.782Z] ▶️ 192.168.1.48:5555 → https://wa.me/6285285904437  
+[2025-05-27T09:06:05.962Z] Command executed: adb -s 192.168.1.48:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T09:06:05.963Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:06.661Z] Gemini API status: 200
+[2025-05-27T09:06:06.662Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw,  baju kamu hari ini kece banget! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.32413994747659436}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"gIA1aKK_B_CNgLUP-_fggAY"}
+[2025-05-27T09:06:08.041Z] Command executed: adb -s 192.168.1.48:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:06:08.041Z] ▶️ 192.168.1.49:5555 → https://wa.me/6282221925157  
+[2025-05-27T09:06:08.217Z] Command executed: adb -s 192.168.1.49:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T09:06:08.217Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:08.878Z] Gemini API status: 200
+[2025-05-27T09:06:08.879Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu masih yang lama, ya?  Btw, keren banget bajumu di foto tadi! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3047142028808594}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":27,"totalTokenCount":67,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":27}]},"modelVersion":"gemini-1.5-flash","responseId":"goA1aKihEomF1dkP4aj2sQY"}
+[2025-05-27T09:06:10.362Z] Command executed: adb -s 192.168.1.49:5555 shell input text "Hai!%sNomor%sWA-mu%smasih%syang%slama,%sya?%sBtw,%skeren%sbanget%sbajumu%sdi%sfoto%stadi!%s"
+[2025-05-27T09:06:10.362Z] ▶️ 192.168.1.50:5555 → https://wa.me/6281315993335  
+[2025-05-27T09:06:10.551Z] Command executed: adb -s 192.168.1.50:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281315993335  "
+[2025-05-27T09:06:10.552Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:11.229Z] Gemini API status: 200
+[2025-05-27T09:06:11.230Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku udah ganti nih.  Btw,  baju kamu keren banget hari ini!  😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.5236805769113394}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":26,"totalTokenCount":66,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":26}]},"modelVersion":"gemini-1.5-flash","responseId":"hIA1aIatJomF1dkP4aj2sQY"}
+[2025-05-27T09:06:12.547Z] Command executed: adb -s 192.168.1.50:5555 shell input text "Hai!%sNomor%sWA-ku%sudah%sganti%snih.%sBtw,%sbaju%skamu%skeren%sbanget%shari%sini!%s"
+[2025-05-27T09:06:12.548Z] ▶️ 192.168.1.51:5555 → https://wa.me/6285285904465  
+[2025-05-27T09:06:12.711Z] Command executed: adb -s 192.168.1.51:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T09:06:12.711Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:13.421Z] Gemini API status: 200
+[2025-05-27T09:06:13.422Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku berubah, nih.  Btw, baju kamu hari ini kece banget!  Ini nomor baruku: [Nomor WA]\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.22420197374680462}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":34,"totalTokenCount":74,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":34}]},"modelVersion":"gemini-1.5-flash","responseId":"hoA1aIPdL9TGgLUP
+[2025-05-27T09:06:15.029Z] Command executed: adb -s 192.168.1.51:5555 shell input text "Hai!%sNomor%sWA-ku%sberubah,%snih.%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%sIni%snomor%sbaruku:%"
+[2025-05-27T09:06:15.726Z] Command executed: adb -s 192.168.1.51:5555 shell input text "s[Nomor%sWA]"
+[2025-05-27T09:06:15.727Z] ▶️ 192.168.1.52:5555 → https://wa.me/6282221924255  
+[2025-05-27T09:06:15.895Z] Command executed: adb -s 192.168.1.52:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T09:06:15.895Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:16.521Z] Gemini API status: 200
+[2025-05-27T09:06:16.521Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu masih yang lama ya?  Btw, keren banget foto profil barumu! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.37256622314453125}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"iYA1aLD4OqqvgLUP1Lz-8As"}
+[2025-05-27T09:06:18.085Z] Command executed: adb -s 192.168.1.52:5555 shell input text "Hai!%sNomor%sWA-mu%smasih%syang%slama%sya?%sBtw,%skeren%sbanget%sfoto%sprofil%sbarumu!%s"
+[2025-05-27T09:06:18.086Z] ▶️ 192.168.1.53:5555 → https://wa.me/6282221924254  
+[2025-05-27T09:06:18.252Z] Command executed: adb -s 192.168.1.53:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T09:06:18.252Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:18.867Z] Gemini API status: 200
+[2025-05-27T09:06:18.867Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, baju kamu hari ini kece banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.21893414996919178}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"jIA1aJWUFKLkgLUPlsyasAI"}
+[2025-05-27T09:06:20.778Z] Command executed: adb -s 192.168.1.53:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:06:20.779Z] ▶️ 192.168.1.54:5555 → https://wa.me/6285285904461  
+[2025-05-27T09:06:20.953Z] Command executed: adb -s 192.168.1.54:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T09:06:20.953Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:21.629Z] Gemini API status: 200
+[2025-05-27T09:06:21.629Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku udah berubah, nih.  Btw, baju kamu keren banget tadi! 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3857126633326213}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":24,"totalTokenCount":64,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"j4A1aPKoAd7bgLUP8cv60A0"}
+[2025-05-27T09:06:22.990Z] Command executed: adb -s 192.168.1.54:5555 shell input text "Hai!%sNomor%sWA-ku%sudah%sberubah,%snih.%sBtw,%sbaju%skamu%skeren%sbanget%stadi!%s"
+[2025-05-27T09:06:22.990Z] ▶️ 192.168.1.55:5555 → https://wa.me/6285285904157  
+[2025-05-27T09:06:23.178Z] Command executed: adb -s 192.168.1.55:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904157  "
+[2025-05-27T09:06:23.178Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:24.781Z] Gemini API status: 200
+[2025-05-27T09:06:24.781Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw,  kaos kamu keren banget tadi! 😎\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.397016479855492}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"koA1aPzhDvCNgLUP-_fggAY"}
+[2025-05-27T09:06:26.266Z] Command executed: adb -s 192.168.1.55:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skaos%skamu%skeren%sbanget%stadi!%s"
+[2025-05-27T09:06:26.266Z] ▶️ 192.168.1.57:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:06:26.436Z] Command executed: adb -s 192.168.1.57:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:06:26.436Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:06:28.035Z] Gemini API status: 200
+[2025-05-27T09:06:28.036Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, kemeja barumu keren banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.20269280388241723}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"lYA1aLKkH4KUhMIPy7mmmQw"}
+[2025-05-27T09:06:29.680Z] Command executed: adb -s 192.168.1.57:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:07:29.690Z] ▶️ 192.168.1.38:5555 → https://wa.me/6282221925155  
+[2025-05-27T09:07:29.852Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T09:07:29.852Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:30.571Z] Gemini API status: 200
+[2025-05-27T09:07:30.571Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajunya hari ini! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3346504514867609}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"1IA1aOKuA_K5qsMPmcXT4As"}
+[2025-05-27T09:07:31.805Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajunya%shari%sini!%s"
+[2025-05-27T09:07:31.806Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282298144818  
+[2025-05-27T09:07:31.993Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T09:07:31.993Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:33.631Z] Gemini API status: 200
+[2025-05-27T09:07:33.631Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw, kemeja barumu keren banget! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3818911790847778}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"14A1aKC0B_K5qsMPmcXT4As"}
+[2025-05-27T09:07:35.199Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:07:35.200Z] ▶️ 192.168.1.40:5555 → https://wa.me/6282221924256  
+[2025-05-27T09:07:35.369Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T09:07:35.370Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:37.120Z] Gemini API status: 200
+[2025-05-27T09:07:37.120Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget outfit kamu di foto tadi! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3640713484390922}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"2oA1aOqCHY24qsMPyazOsA0"}
+[2025-05-27T09:07:38.753Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%soutfit%skamu%sdi%sfoto%stadi!%s"
+[2025-05-27T09:07:38.753Z] ▶️ 192.168.1.41:5555 → https://wa.me/6285285904155  
+[2025-05-27T09:07:38.920Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T09:07:38.920Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:39.704Z] Gemini API status: 200
+[2025-05-27T09:07:39.704Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajunya tadi! 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.36459700266520184}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"3YA1aM-6AZ-VhMIPwe2i8Q4"}
+[2025-05-27T09:07:41.059Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajunya%stadi!%s"
+[2025-05-27T09:07:41.060Z] ▶️ 192.168.1.42:5555 → https://wa.me/6282221924119  
+[2025-05-27T09:07:41.237Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T09:07:41.237Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:41.930Z] Gemini API status: 200
+[2025-05-27T09:07:41.931Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, baju kamu kece banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.26037814617156985}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"34A1aJHbE4KUhMIPy7mmmQw"}
+[2025-05-27T09:07:43.156Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%sbaju%skamu%skece%sbanget%stadi!"
+[2025-05-27T09:07:43.156Z] ▶️ 192.168.1.43:5555 → https://wa.me/6281330038639
+[2025-05-27T09:07:43.328Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T09:07:43.328Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:44.060Z] Gemini API status: 200
+[2025-05-27T09:07:44.060Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajunya tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2840808629989624}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"4YA1aNSYGo24qsMPyazOsA0"}
+[2025-05-27T09:07:45.191Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajunya%stadi!"
+[2025-05-27T09:07:45.191Z] ▶️ 192.168.1.44:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:07:45.368Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:07:45.368Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:47.124Z] Gemini API status: 200
+[2025-05-27T09:07:47.124Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku berubah, nih.  Btw, baju kamu hari ini kece banget!  😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2949526405334473}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":25,"totalTokenCount":65,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":25}]},"modelVersion":"gemini-1.5-flash","responseId":"5IA1aJCkHI24qsMPyazOsA0"}
+[2025-05-27T09:07:48.788Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sNomor%sWA-ku%sberubah,%snih.%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:07:48.788Z] ▶️ 192.168.1.45:5555 → https://wa.me/6282221069974  
+[2025-05-27T09:07:48.941Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T09:07:48.942Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:49.589Z] Gemini API status: 200
+[2025-05-27T09:07:49.589Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw,  kaos kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2575394630432129}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"54A1aP_8AYKUhMIPy7mmmQw"}
+[2025-05-27T09:07:50.756Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skaos%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:07:50.757Z] ▶️ 192.168.1.46:5555 → https://wa.me/6282221925154  
+[2025-05-27T09:07:50.935Z] Command executed: adb -s 192.168.1.46:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925154  "
+[2025-05-27T09:07:50.936Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:52.678Z] Gemini API status: 200
+[2025-05-27T09:07:52.679Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw,  kemeja barumu kece banget! 😎\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3938156474720348}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"6oA1aPXvAoKUhMIPy7mmmQw"}
+[2025-05-27T09:07:54.241Z] Command executed: adb -s 192.168.1.46:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skece%sbanget!%s"
+[2025-05-27T09:07:54.241Z] ▶️ 192.168.1.47:5555 → https://wa.me/6285285907296  
+[2025-05-27T09:07:54.399Z] Command executed: adb -s 192.168.1.47:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T09:07:54.400Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:56.015Z] Gemini API status: 200
+[2025-05-27T09:07:56.016Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw, baju kamu hari ini kece banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.229253541855585}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"7YA1aLWkHY2RsbQPv_vJuQk"}
+[2025-05-27T09:07:57.511Z] Command executed: adb -s 192.168.1.47:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:07:57.511Z] ▶️ 192.168.1.48:5555 → https://wa.me/6285285907301  
+[2025-05-27T09:07:57.686Z] Command executed: adb -s 192.168.1.48:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T09:07:57.686Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:07:59.338Z] Gemini API status: 200
+[2025-05-27T09:07:59.339Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku udah ganti, nih.  Btw,  foto profil barumu kece banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3373860579270583}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":26,"totalTokenCount":66,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":26}]},"modelVersion":"gemini-1.5-flash","responseId":"8IA1aO7SL4KUhMIPy7mmmQw"}
+[2025-05-27T09:08:01.095Z] Command executed: adb -s 192.168.1.48:5555 shell input text "Hai!%sNomor%sWA-ku%sudah%sganti,%snih.%sBtw,%sfoto%sprofil%sbarumu%skece%sbanget!%s"
+[2025-05-27T09:08:01.095Z] ▶️ 192.168.1.49:5555 → https://wa.me/6285285904437  
+[2025-05-27T09:08:01.270Z] Command executed: adb -s 192.168.1.49:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T09:08:01.270Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:01.914Z] Gemini API status: 200
+[2025-05-27T09:08:01.914Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA-mu berapa?  Btw,  kemeja barumu keren banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3490509770133279}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"84A1aIDfFfGqqsMP98zViAI"}
+[2025-05-27T09:08:03.137Z] Command executed: adb -s 192.168.1.49:5555 shell input text "Hai!%sNomer%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:08:03.137Z] ▶️ 192.168.1.50:5555 → https://wa.me/6282221925157  
+[2025-05-27T09:08:03.311Z] Command executed: adb -s 192.168.1.50:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T09:08:03.311Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:04.897Z] Gemini API status: 200
+[2025-05-27T09:08:04.897Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, baju kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.21908727445100484}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":19,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"9oA1aMCqF_GqqsMP98zViAI"}
+[2025-05-27T09:08:06.447Z] Command executed: adb -s 192.168.1.50:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:08:06.447Z] ▶️ 192.168.1.51:5555 → https://wa.me/6281315993335  
+[2025-05-27T09:08:06.611Z] Command executed: adb -s 192.168.1.51:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281315993335  "
+[2025-05-27T09:08:06.612Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:08.223Z] Gemini API status: 200
+[2025-05-27T09:08:08.223Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, baju kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.1545820116996765}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"-YA1aOfiKPGqqsMP98zViAI"}
+[2025-05-27T09:08:09.712Z] Command executed: adb -s 192.168.1.51:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:08:09.713Z] ▶️ 192.168.1.52:5555 → https://wa.me/6285285904465  
+[2025-05-27T09:08:09.871Z] Command executed: adb -s 192.168.1.52:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T09:08:09.871Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:11.585Z] Gemini API status: 200
+[2025-05-27T09:08:11.585Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA-mu berapa?  Btw,  kemeja barumu kece banget! 😎\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4388062737204812}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"_IA1aKTBOvK5qsMPmcXT4As"}
+[2025-05-27T09:08:12.988Z] Command executed: adb -s 192.168.1.52:5555 shell input text "Hai!%sNomer%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skece%sbanget!%s"
+[2025-05-27T09:08:12.989Z] ▶️ 192.168.1.53:5555 → https://wa.me/6282221924255  
+[2025-05-27T09:08:13.149Z] Command executed: adb -s 192.168.1.53:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T09:08:13.149Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:13.870Z] Gemini API status: 200
+[2025-05-27T09:08:13.871Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajumu tadi! 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.31681144805181594}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"_4A1aP7QEY2RsbQPv_vJuQk"}
+[2025-05-27T09:08:15.562Z] Command executed: adb -s 192.168.1.53:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajumu%stadi!%s"
+[2025-05-27T09:08:15.562Z] ▶️ 192.168.1.54:5555 → https://wa.me/6282221924254  
+[2025-05-27T09:08:15.732Z] Command executed: adb -s 192.168.1.54:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924254  "
+[2025-05-27T09:08:15.732Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:16.988Z] Gemini API error: Request failed with status code 429
+[2025-05-27T09:08:16.988Z] ▶️ 192.168.1.55:5555 → https://wa.me/6285285904461  
+[2025-05-27T09:08:17.151Z] Command executed: adb -s 192.168.1.55:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T09:08:17.151Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:17.450Z] Gemini API error: Request failed with status code 429
+[2025-05-27T09:08:17.450Z] ▶️ 192.168.1.57:5555 → https://wa.me/6285285904157  
+[2025-05-27T09:08:17.610Z] Command executed: adb -s 192.168.1.57:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904157  "
+[2025-05-27T09:08:17.610Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:08:17.919Z] Gemini API error: Request failed with status code 429
+[2025-05-27T09:09:17.935Z] ▶️ 192.168.1.38:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:09:18.104Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:09:18.104Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:18.833Z] Gemini API status: 200
+[2025-05-27T09:09:18.833Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku berubah, nih.  Btw, baju kamu keren banget tadi!  Ini nomor baru ku: [nomor WA]\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3451192378997803}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":32,"totalTokenCount":72,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":32}]},"modelVersion":"gemini-1.5-flash","responseId":"QIE1aLSKD_GqqsMP98z
+[2025-05-27T09:09:20.921Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomor%sWA-ku%sberubah,%snih.%sBtw,%sbaju%skamu%skeren%sbanget%stadi!%sIni%snomor%sbaru%sku:%s["
+[2025-05-27T09:09:21.608Z] Command executed: adb -s 192.168.1.38:5555 shell input text "nomor%sWA]"
+[2025-05-27T09:09:21.609Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221925155  
+[2025-05-27T09:09:21.803Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T09:09:21.803Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:23.438Z] Gemini API status: 200
+[2025-05-27T09:09:23.438Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, keren banget bajunya hari ini! 😎\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.45237482161748976}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"RIE1aKvdNoKUhMIPy7mmmQw"}
+[2025-05-27T09:09:25.356Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skeren%sbanget%sbajunya%shari%sini!%s"
+[2025-05-27T09:09:25.356Z] ▶️ 192.168.1.40:5555 → https://wa.me/6282298144818  
+[2025-05-27T09:09:25.514Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282298144818  "
+[2025-05-27T09:09:25.514Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:26.156Z] Gemini API status: 200
+[2025-05-27T09:09:26.157Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, baju kamu kece banget tadi! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.32338846297491164}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"R4E1aOKjJfGqqsMP98zViAI"}
+[2025-05-27T09:09:27.647Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%sbaju%skamu%skece%sbanget%stadi!%s"
+[2025-05-27T09:09:27.647Z] ▶️ 192.168.1.41:5555 → https://wa.me/6282221924256  
+[2025-05-27T09:09:27.833Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924256  "
+[2025-05-27T09:09:27.833Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:29.446Z] Gemini API status: 200
+[2025-05-27T09:09:29.446Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA-mu berapa?  Btw, keren banget bajumu tadi di kampus!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.31635609540072357}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"SoE1aLCJOI24qsMPyazOsA0"}
+[2025-05-27T09:09:30.950Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sNomer%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajumu%stadi%sdi%skampus!"
+[2025-05-27T09:09:30.950Z] ▶️ 192.168.1.42:5555 → https://wa.me/6285285904155  
+[2025-05-27T09:09:31.119Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904155  "
+[2025-05-27T09:09:31.120Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:32.795Z] Gemini API status: 200
+[2025-05-27T09:09:32.796Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-ku berubah, nih.  Btw, baju kamu keren banget tadi! 😊  Simpan yang baru, ya?\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.33671692878969256}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":31,"totalTokenCount":71,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":31}]},"modelVersion":"gemini-1.5-flash","responseId":"ToE1aPCODI24qsMPyazOsA0
+[2025-05-27T09:09:34.882Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sNomor%sWA-ku%sberubah,%snih.%sBtw,%sbaju%skamu%skeren%sbanget%stadi!%s%sSimpan%syang%sbaru,%sy"
+[2025-05-27T09:09:35.486Z] Command executed: adb -s 192.168.1.42:5555 shell input text "a?"
+[2025-05-27T09:09:35.486Z] ▶️ 192.168.1.43:5555 → https://wa.me/6282221924119  
+[2025-05-27T09:09:35.653Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924119  "
+[2025-05-27T09:09:35.653Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:37.264Z] Gemini API status: 200
+[2025-05-27T09:09:37.265Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, keren banget bajunya hari ini! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4337239946637835}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"UoE1aOeCLYKUhMIPy7mmmQw"}
+[2025-05-27T09:09:39.132Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%skeren%sbanget%sbajunya%shari%sini!%s"
+[2025-05-27T09:09:39.133Z] ▶️ 192.168.1.44:5555 → https://wa.me/6281330038639
+[2025-05-27T09:09:39.284Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T09:09:39.285Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:40.895Z] Gemini API status: 200
+[2025-05-27T09:09:40.895Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA-mu berapa?  Btw, baju kamu hari ini kece banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2608068856326016}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"VoE1aJfUFoKUhMIPy7mmmQw"}
+[2025-05-27T09:09:42.433Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sNomer%sWA-mu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:09:42.433Z] ▶️ 192.168.1.45:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:09:42.594Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:09:42.595Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:09:43.330Z] Gemini API status: 200
+[2025-05-27T09:09:43.330Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw,  cakep banget fotonya di IG! 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.4391066095103388}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":23,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":23}]},"modelVersion":"gemini-1.5-flash","responseId":"WIE1aIuUK424qsMPyazOsA0"}
+[2025-05-27T09:10:25.949Z] Loaded 20 WhatsApp links
+[2025-05-27T09:10:28.745Z] ▶️ 192.168.1.38:5555 → https://wa.me/6285285907301  
+[2025-05-27T09:10:28.920Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T09:10:28.921Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:10:30.598Z] Gemini API status: 200
+[2025-05-27T09:10:30.599Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajumu tadi! 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3315502575465611}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"iIE1aPGhBJ-VhMIPwe2i8Q4"}
+[2025-05-27T09:10:39.808Z] Loaded 20 WhatsApp links
+[2025-05-27T09:10:42.174Z] ▶️ 192.168.1.38:5555 → https://wa.me/6282221924255  
+[2025-05-27T09:10:42.345Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T09:10:42.346Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:10:43.092Z] Gemini API status: 200
+[2025-05-27T09:10:43.093Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA-mu berapa?  Btw, baju kamu keren banget tadi!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.22259266376495362}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":20,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"lIE1aMvzHYKUhMIPy7mmmQw"}
+[2025-05-27T09:10:44.394Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomer%sWA-mu%sberapa?%sBtw,%sbaju%skamu%skeren%sbanget%stadi!"
+[2025-05-27T09:10:46.617Z] ▶️ 192.168.1.39:5555 → https://wa.me/6285285904461  
+[2025-05-27T09:10:46.780Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T09:10:46.780Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:17:36.190Z] Loaded 20 WhatsApp links
+[2025-05-27T09:17:53.307Z] ▶️ 192.168.1.38:5555 → https://wa.me/6285285907296  
+[2025-05-27T09:17:53.483Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T09:17:53.484Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:17:54.176Z] Gemini API status: 200
+[2025-05-27T09:17:54.177Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomer WA kamu berapa?  Btw,  kaos kamu keren banget hari ini! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3710662668401545}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"Q4M1aNCJKvCNgLUP-_fggAY"}
+[2025-05-27T09:17:55.433Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%skaos%skamu%skeren%sbanget%shari%sini!%s"
+[2025-05-27T09:17:56.052Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 66
+[2025-05-27T09:17:59.702Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sNomer%sWA%skamu%sberapa?%sBtw,%skaos%skamu%skeren%sbanget%shari%sini!%s"
+[2025-05-27T09:18:00.312Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 66
+[2025-05-27T09:18:00.930Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 3
+[2025-05-27T09:18:00.930Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:18:01.118Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:18:01.118Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:18:01.741Z] Gemini API status: 200
+[2025-05-27T09:18:01.741Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA kamu berapa?  Btw, baju kamu hari ini kece banget! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.23604383922758557}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"S4M1aJrND9TGgLUPtNvO0AE"}
+[2025-05-27T09:18:03.266Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:18:03.884Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 66
+[2025-05-27T09:18:07.407Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sNomor%sWA%skamu%sberapa?%sBtw,%sbaju%skamu%shari%sini%skece%sbanget!%s"
+[2025-05-27T09:18:07.980Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 66
+[2025-05-27T09:18:08.663Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 3
+[2025-05-27T09:18:08.663Z] ▶️ 192.168.1.40:5555 → https://wa.me/6282221069974  
+[2025-05-27T09:18:08.832Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T09:18:08.832Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:18:09.485Z] Gemini API status: 200
+[2025-05-27T09:18:09.486Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, keren banget bajumu tadi di kafe!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.27632509578358044}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":22,"totalTokenCount":62,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":22}]},"modelVersion":"gemini-1.5-flash","responseId":"UoM1aJuhO6LkgLUPlsyasAI"}
+[2025-05-27T09:18:10.682Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajumu%stadi%sdi%skafe!"
+[2025-05-27T09:18:11.256Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 66
+[2025-05-27T09:18:14.801Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skeren%sbanget%sbajumu%stadi%sdi%skafe!"
+[2025-05-27T09:18:15.363Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 66
+[2025-05-27T09:18:15.992Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 3
+[2025-05-27T09:18:15.993Z] ▶️ 192.168.1.41:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:18:16.160Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:18:16.160Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:18:16.814Z] Gemini API status: 200
+[2025-05-27T09:18:16.814Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Nomor WA-mu berapa?  Btw, kemeja barumu keren banget! 👍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2058615003313337}],"usageMetadata":{"promptTokenCount":40,"candidatesTokenCount":21,"totalTokenCount":61,"promptTokensDetails":[{"modality":"TEXT","tokenCount":40}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"WoM1aMqUErOMgLUPq7OY6QY"}
+[2025-05-27T09:18:17.942Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:18:18.517Z] Command executed: adb -s 192.168.1.41:5555 shell input keyevent 66
+[2025-05-27T09:18:22.202Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sNomor%sWA-mu%sberapa?%sBtw,%skemeja%sbarumu%skeren%sbanget!%s"
+[2025-05-27T09:20:46.470Z] Loaded 20 WhatsApp links
+[2025-05-27T09:21:22.286Z] ▶️ 192.168.1.37:5555 → https://wa.me/6282221069974  
+[2025-05-27T09:21:22.521Z] Command executed: adb -s 192.168.1.37:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221069974  "
+[2025-05-27T09:21:22.521Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:21:23.209Z] Gemini API status: 200
+[2025-05-27T09:21:23.210Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Bajumu bagus banget hari ini, warnanya cocok banget sama kamu. 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3081222584373073}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":19,"totalTokenCount":58,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"FIQ1aJXwLImF1dkP4aj2sQY"}
+[2025-05-27T09:21:24.329Z] Command executed: adb -s 192.168.1.37:5555 shell input text "Hai!%sBajumu%sbagus%sbanget%shari%sini,%swarnanya%scocok%sbanget%ssama%skamu.%s"
+[2025-05-27T09:21:24.949Z] Command executed: adb -s 192.168.1.37:5555 shell input keyevent 66
+[2025-05-27T09:21:33.523Z] Command executed: adb -s 192.168.1.37:5555 shell input keyevent 3
+[2025-05-27T09:21:33.524Z] ▶️ 192.168.1.38:5555 → https://wa.me/6285285907296  
+[2025-05-27T09:21:33.726Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907296  "
+[2025-05-27T09:21:33.726Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:21:34.377Z] Gemini API status: 200
+[2025-05-27T09:21:34.377Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Kamu hari ini cantik banget, deh!  Gimana rahasianya? 😉\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.25881063370477586}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":21,"totalTokenCount":60,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":21}]},"modelVersion":"gemini-1.5-flash","responseId":"H4Q1aJrYNd7bgLUP8cv60A0"}
+[2025-05-27T09:21:35.477Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sKamu%shari%sini%scantik%sbanget,%sdeh!%sGimana%srahasianya?%s"
+[2025-05-27T09:21:36.086Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 66
+[2025-05-27T09:21:44.171Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 3
+[2025-05-27T09:21:44.171Z] ▶️ 192.168.1.39:5555 → https://wa.me/6282221925157  
+[2025-05-27T09:21:44.373Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T09:21:44.374Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:21:45.113Z] Gemini API status: 200
+[2025-05-27T09:21:45.113Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Baju kamu itu cakep banget, warnanya pas banget sama kamu! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2590646266937256}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":20,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"KoQ1aIjNIN7bgLUP8cv60A0"}
+[2025-05-27T09:21:46.385Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sBaju%skamu%situ%scakep%sbanget,%swarnanya%spas%sbanget%ssama%skamu!%s"
+[2025-05-27T09:21:46.959Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 66
+[2025-05-27T09:21:55.131Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 3
+[2025-05-27T09:21:55.131Z] ▶️ 192.168.1.40:5555 → https://wa.me/6285285904434  
+[2025-05-27T09:21:55.365Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904434  "
+[2025-05-27T09:21:55.365Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:21:55.958Z] Gemini API status: 200
+[2025-05-27T09:21:55.959Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Gak boong, kamu hari ini cantik banget! ✨\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.5607497096061707}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":16,"totalTokenCount":55,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":16}]},"modelVersion":"gemini-1.5-flash","responseId":"NYQ1aKCYIKLkgLUPlsyasAI"}
+[2025-05-27T09:21:56.925Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sGak%sboong,%skamu%shari%sini%scantik%sbanget!%s"
+[2025-05-27T09:21:57.503Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 66
+[2025-05-27T09:24:03.213Z] Loaded 20 WhatsApp links
+[2025-05-27T09:24:06.549Z] ▶️ 192.168.1.37:5555 → https://wa.me/6285285904465  
+[2025-05-27T09:24:06.730Z] Command executed: adb -s 192.168.1.37:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904465  "
+[2025-05-27T09:24:06.731Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:24:07.396Z] Gemini API status: 200
+[2025-05-27T09:24:07.397Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Baju kamu hari ini cantik banget, warnanya pas banget sama kamu! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.14679524898529053}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":20,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"uIQ1aMK7OfGqqsMP98zViAI"}
+[2025-05-27T09:24:08.864Z] Command executed: adb -s 192.168.1.37:5555 shell input text "Hai!%sBaju%skamu%shari%sini%scantik%sbanget,%swarnanya%spas%sbanget%ssama%skamu!%s"
+[2025-05-27T09:24:10.259Z] Command executed: adb -s 192.168.1.37:5555 shell input keyevent 66
+[2025-05-27T09:24:21.193Z] Command executed: adb -s 192.168.1.37:5555 shell input keyevent 3
+[2025-05-27T09:24:21.193Z] ▶️ 192.168.1.38:5555 → https://wa.me/6281330038639
+[2025-05-27T09:24:21.365Z] Command executed: adb -s 192.168.1.38:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6281330038639"
+[2025-05-27T09:24:21.365Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:24:22.968Z] Gemini API status: 200
+[2025-05-27T09:24:22.969Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Kamu lagi pakai lipstik apa? Warnanya cantik banget! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.46893829457900105}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":17,"totalTokenCount":56,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":17}]},"modelVersion":"gemini-1.5-flash","responseId":"yIQ1aMqhH42RsbQPv_vJuQk"}
+[2025-05-27T09:24:24.665Z] Command executed: adb -s 192.168.1.38:5555 shell input text "Hai!%sKamu%slagi%spakai%slipstik%sapa?%sWarnanya%scantik%sbanget!%s"
+[2025-05-27T09:24:25.234Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 66
+[2025-05-27T09:24:33.202Z] Command executed: adb -s 192.168.1.38:5555 shell input keyevent 3
+[2025-05-27T09:24:33.203Z] ▶️ 192.168.1.39:5555 → https://wa.me/6285285904437  
+[2025-05-27T09:24:33.391Z] Command executed: adb -s 192.168.1.39:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904437  "
+[2025-05-27T09:24:33.391Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:24:35.003Z] Gemini API status: 200
+[2025-05-27T09:24:35.004Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Kamu cantik banget hari ini!  Gak biasanya pake baju warna itu ya, tapi keren banget!\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.6482696135838827}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":24,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"1IQ1aOGKIJ-VhMIPwe2i8Q4"}
+[2025-05-27T09:24:36.924Z] Command executed: adb -s 192.168.1.39:5555 shell input text "Hai!%sKamu%scantik%sbanget%shari%sini!%sGak%sbiasanya%spake%sbaju%swarna%situ%sya,%stapi%skeren%sban"
+[2025-05-27T09:24:37.496Z] Command executed: adb -s 192.168.1.39:5555 shell input text "get!"
+[2025-05-27T09:24:38.054Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 66
+[2025-05-27T09:24:45.855Z] Command executed: adb -s 192.168.1.39:5555 shell input keyevent 3
+[2025-05-27T09:24:45.856Z] ▶️ 192.168.1.40:5555 → https://wa.me/6285285907301  
+[2025-05-27T09:24:46.035Z] Command executed: adb -s 192.168.1.40:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285907301  "
+[2025-05-27T09:24:46.035Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:24:46.744Z] Gemini API status: 200
+[2025-05-27T09:24:46.744Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Bajumu itu cantik banget, warnanya pas banget sama kamu! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.3222978379991319}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":18,"totalTokenCount":57,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":18}]},"modelVersion":"gemini-1.5-flash","responseId":"4IQ1aLXODI24qsMPyazOsA0"}
+[2025-05-27T09:24:48.021Z] Command executed: adb -s 192.168.1.40:5555 shell input text "Hai!%sBajumu%situ%scantik%sbanget,%swarnanya%spas%sbanget%ssama%skamu!%s"
+[2025-05-27T09:24:48.597Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 66
+[2025-05-27T09:24:56.654Z] Command executed: adb -s 192.168.1.40:5555 shell input keyevent 3
+[2025-05-27T09:24:56.655Z] ▶️ 192.168.1.41:5555 → https://wa.me/6282221925155  
+[2025-05-27T09:24:56.832Z] Command executed: adb -s 192.168.1.41:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925155  "
+[2025-05-27T09:24:56.833Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:24:58.532Z] Gemini API status: 200
+[2025-05-27T09:24:58.532Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Bajumu itu cantik banget hari ini, warnanya pas banget sama kamu! 🤩\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.49945669174194335}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":20,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"64Q1aI6FPPGqqsMP98zViAI"}
+[2025-05-27T09:25:00.307Z] Command executed: adb -s 192.168.1.41:5555 shell input text "Hai!%sBajumu%situ%scantik%sbanget%shari%sini,%swarnanya%spas%sbanget%ssama%skamu!%s"
+[2025-05-27T09:25:00.871Z] Command executed: adb -s 192.168.1.41:5555 shell input keyevent 66
+[2025-05-27T09:25:09.125Z] Command executed: adb -s 192.168.1.41:5555 shell input keyevent 3
+[2025-05-27T09:25:09.126Z] ▶️ 192.168.1.42:5555 → https://wa.me/6282221925157  
+[2025-05-27T09:25:09.304Z] Command executed: adb -s 192.168.1.42:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221925157  "
+[2025-05-27T09:25:09.305Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:25:09.927Z] Gemini API status: 200
+[2025-05-27T09:25:09.928Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Baju kamu itu cakep banget, warnanya pas banget sama kamu! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.2476337194442749}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":20,"totalTokenCount":59,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":20}]},"modelVersion":"gemini-1.5-flash","responseId":"94Q1aLCoHYKUhMIPy7mmmQw"}
+[2025-05-27T09:25:11.239Z] Command executed: adb -s 192.168.1.42:5555 shell input text "Hai!%sBaju%skamu%situ%scakep%sbanget,%swarnanya%spas%sbanget%ssama%skamu!%s"
+[2025-05-27T09:25:11.804Z] Command executed: adb -s 192.168.1.42:5555 shell input keyevent 66
+[2025-05-27T09:25:19.698Z] Command executed: adb -s 192.168.1.42:5555 shell input keyevent 3
+[2025-05-27T09:25:19.698Z] ▶️ 192.168.1.43:5555 → https://wa.me/6285285904461  
+[2025-05-27T09:25:19.874Z] Command executed: adb -s 192.168.1.43:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6285285904461  "
+[2025-05-27T09:25:19.874Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:25:21.549Z] Gemini API status: 200
+[2025-05-27T09:25:21.549Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Kamu hari ini cantik banget, deh!  Gimana caranya? 😊\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.5041809583965101}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":19,"totalTokenCount":58,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"A4U1aNKiBIKUhMIPy7mmmQw"}
+[2025-05-27T09:25:23.129Z] Command executed: adb -s 192.168.1.43:5555 shell input text "Hai!%sKamu%shari%sini%scantik%sbanget,%sdeh!%sGimana%scaranya?%s"
+[2025-05-27T09:25:23.696Z] Command executed: adb -s 192.168.1.43:5555 shell input keyevent 66
+[2025-05-27T09:25:31.827Z] Command executed: adb -s 192.168.1.43:5555 shell input keyevent 3
+[2025-05-27T09:25:31.827Z] ▶️ 192.168.1.44:5555 → https://wa.me/6282221924255  
+[2025-05-27T09:25:32.017Z] Command executed: adb -s 192.168.1.44:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221924255  "
+[2025-05-27T09:25:32.017Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:25:33.642Z] Gemini API status: 200
+[2025-05-27T09:25:33.642Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Gak bohong, kamu cantik banget hari ini!  Baju barunya kece juga. 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.6970199743906657}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":24,"totalTokenCount":63,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":24}]},"modelVersion":"gemini-1.5-flash","responseId":"D4U1aKaVCfGqqsMP98zViAI"}
+[2025-05-27T09:25:35.529Z] Command executed: adb -s 192.168.1.44:5555 shell input text "Hai!%sGak%sbohong,%skamu%scantik%sbanget%shari%sini!%sBaju%sbarunya%skece%sjuga.%s"
+[2025-05-27T09:25:36.113Z] Command executed: adb -s 192.168.1.44:5555 shell input keyevent 66
+[2025-05-27T09:25:43.937Z] Command executed: adb -s 192.168.1.44:5555 shell input keyevent 3
+[2025-05-27T09:25:43.938Z] ▶️ 192.168.1.45:5555 → https://wa.me/6282221929861  
+[2025-05-27T09:25:44.123Z] Command executed: adb -s 192.168.1.45:5555 shell am start -a android.intent.action.VIEW -d "https://wa.me/6282221929861  "
+[2025-05-27T09:25:44.123Z] Gemini API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyD9z9INN0TuJPnKzsUdARm-FwCwgsGjlqY
+[2025-05-27T09:25:44.885Z] Gemini API status: 200
+[2025-05-27T09:25:44.886Z] Gemini API raw response: {"candidates":[{"content":{"parts":[{"text":"Hai!  Bajumu cantik banget hari ini, warnanya cocok banget sama kamu! 😍\n"}],"role":"model"},"finishReason":"STOP","avgLogprobs":-0.30862115558825043}],"usageMetadata":{"promptTokenCount":39,"candidatesTokenCount":19,"totalTokenCount":58,"promptTokensDetails":[{"modality":"TEXT","tokenCount":39}],"candidatesTokensDetails":[{"modality":"TEXT","tokenCount":19}]},"modelVersion":"gemini-1.5-flash","responseId":"GoU1aI79EYKUhMIPy7mmmQw"}
+[2025-05-27T09:25:46.238Z] Command executed: adb -s 192.168.1.45:5555 shell input text "Hai!%sBajumu%scantik%sbanget%shari%sini,%swarnanya%scocok%sbanget%ssama%skamu!%s"
+[2025-05-27T09:25:46.863Z] Command executed: adb -s 192.168.1.45:5555 shell input keyevent 66
