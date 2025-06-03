@@ -1,5 +1,6 @@
 const express = require('express');
-const { listAdbDevices, runAdbCommand, sanitizeAndChunkForAdbInput, runCommandFileOnDevice } = require('./adb-utils.cjs');
+const { listAdbDevices, runAdbCommand, sanitizeAndChunkForAdbInput, runCommandFileOnDevice, typeLikeHuman, randomPause,
+  randomScrollOrTap } = require('./adb-utils.cjs');
 const { getGeminiPrompt } = require('./gemini-api.cjs');
 const { loadWhatsAppLinks, logMessage, readCommandFile } = require('./file-utils.cjs');
 
@@ -85,16 +86,20 @@ router.post('/start', async (req, res) => {
 
             /* main flow */
             await runAdbCommand(devId, `am start -a android.intent.action.VIEW -d "${link}"`);
+            await new Promise(resolve => setTimeout(resolve, randomPause(1500, 4000))); // human delay 1.5–4s
+            await randomScrollOrTap(devId); // 50% scroll or tap
+
             const geminiText = await getGeminiPrompt(language, topic);
             for (const chunk of sanitizeAndChunkForAdbInput(geminiText)) {
-              await runAdbCommand(devId, `input text "${chunk}"`);
+              await typeLikeHuman(devId, `"${chunk}"`);
             }
+            await new Promise(resolve => setTimeout(resolve, randomPause(1000, 4000))); // wait before sending
             await runAdbCommand(devId, 'input keyevent 66'); // Press Enter key
 
             if (toggle === 'reply') {
               await runCommandFileOnDevice('example1.txt', devId);
               for (const chunk of sanitizeAndChunkForAdbInput(geminiText)) {
-              await runAdbCommand(devId, `input text "${chunk}"`);
+              await typeLikeHuman(devId, `"${chunk}"`);
               }
               await runAdbCommand(devId, 'input keyevent 66'); // Press Enter key
               await runAdbCommand(devId, 'input keyevent 3');  // Press Home key
